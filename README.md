@@ -31,6 +31,7 @@ Slide the 3D printed part in place.
 ![Assembly 4](table-corners-seq-4.jpg)
 
 The adhesive dots are sold in a package.  The medium version works well for this application.
+In Canada, the dots can be obtained from [Michaels](https://www.michaels.com/).
 ![Assembly 5](table-corners-seq-5.jpg)
 
 ## Contributing
