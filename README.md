@@ -1,6 +1,6 @@
 # Table Corners
 
-Do you have a glass table where the corners are sharp and need protecting?
+Do you have a glass table where the corners need protecting?
 This project provides 3D printed corners for that table.  The
 table corners can be affixed using
 [Therm O Web Zots](https://www.thermowebonline.com/c/crafts-scrapbooking_adhesive-dots-lines).
