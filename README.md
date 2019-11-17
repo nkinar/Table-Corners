@@ -17,6 +17,22 @@ can be used to directly create the part on a 3D printer.
 
 * Autodesk Inventor
 
+## Assembly Sequence
+Here is an adhesive dot removed from a paper reel.
+![Assembly 1](table-corners-seq-1.jpg)
+
+Press the adhesive dot to the table glass applying even pressure.
+![Assembly 2](table-corners-seq-2.jpg)
+
+Peel back the paper, leaving the sticker in place on the table.
+![Assembly 3](table-corners-seq-3.jpg)
+
+Slide the 3D printed part in place.
+![Assembly 4](table-corners-seq-4.jpg)
+
+The adhesive dots are sold in a package.  The medium version works well for this application.
+![Assembly 5](table-corners-seq-5.jpg)
+
 ## Contributing
 
 Please contact the author to contribute or to suggest modified versions if you want your own table corner.
@@ -32,4 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Autodesk for the Inventor Professional software license for education
-* Full Deck Visuals (Saskatoon, Saskatchewan, Canada) for the image
+* Full Deck Visuals (Saskatoon, Saskatchewan, Canada) for the images
